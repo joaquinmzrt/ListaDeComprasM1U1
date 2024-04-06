@@ -3,3 +3,5 @@ agua
 galletitas
 café
 té
+bananas
+manzanas
